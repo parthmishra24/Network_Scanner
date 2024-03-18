@@ -27,7 +27,7 @@ This Bash script provides a user-friendly interface to perform various network s
 
 Clone the repository:
 ```
-git clone https://github.com/your_username/network-scanner.git
+git clone https://github.com/parthmishra24/Network_Scanner.git
 ```
 
 ## Usage Examples:
